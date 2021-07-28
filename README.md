@@ -1,5 +1,5 @@
 # pdf_list_generation_with_qr_codes
-Simple function that obtain header info and some raws to print plus some data to make it QR-coded.
+Simple function that obtain header info and some raws to print plus some data to make it QR-coded. Example of data included.
 
 dependencies:
 
